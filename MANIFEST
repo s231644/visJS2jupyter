@@ -3,4 +3,4 @@ setup.cfg
 setup.py
 visJS2jupyter/__init__.py
 visJS2jupyter/visJS_module.py
-visJS2jupyter/visualizations.py
+visJS2jupyter/utils.py
